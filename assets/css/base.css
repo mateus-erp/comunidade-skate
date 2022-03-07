@@ -1,0 +1,30 @@
+:root {
+    --corpo: #1D232A;
+    --cabeçalho: #1D232A;
+    --cabeçalho-mobile: #15191C;
+    --menu-lateral: #15191C;
+    --cartao: #2C343A;
+    --fonte: #FFFFFF;
+    --fonte-alternativa: #95999C;
+    --links: #0480DC;
+    --botao: #0480DC;
+    --sombras: 0px 4px 4px rgba(0, 0, 0, 0.16);
+
+    --open-sans: 'Open Sans', 'icones', 'sans-serif';
+
+    --icone-camisas: '\e900';
+    --icone-carrinho: '\e901';
+    --icone-inicio: '\e902';
+    --icone-integrantes: '\e903';
+    --icone-menu: '\e904';
+    --icone-moeda: '\e905';
+    --icone-notificacao: '\e906';
+    --icone-pico: '\e908';
+    --icone-picos: '\e909';
+    --icone-pinturas: '\e90a';
+    --icone-play: '\e90b';
+    --icone-relogio: '\e90c';
+    --icone-seta-baixo: '\e90d';
+    --icone-videos: '\e90e';
+    --icone-visualizacao: '\e90f';
+}
